@@ -4,7 +4,7 @@
 Name: Himanshu Shete
 himanshushete on CodeChef and himu23 on CodeForces
 roll no.: 23B0770
-Mentor: Daksh
+Mentor: Daksh Anchaliya
 <br>
 here i will show you my weekwise work done in soc-competitive_programming, as i have not divided my folders based on weeks.
 <br>
