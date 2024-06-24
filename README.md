@@ -1,10 +1,10 @@
 # soc-cp
 <h1>SoC Competitive Programming</h1>
 <br>
-Name: Himanshu Shete
-himanshushete on CodeChef and himu23 on CodeForces
-roll no.: 23B0770
-Mentor: Daksh Anchaliya
+Name: Himanshu Shete<br>
+himanshushete on CodeChef and himu23 on CodeForces<br>
+roll no.: 23B0770<br>
+Mentor: Daksh Anchaliya<br>
 <br>
 here i will show you my weekwise work done in soc-competitive_programming, as i have not divided my folders based on weeks.
 <br>
