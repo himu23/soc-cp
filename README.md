@@ -2,7 +2,7 @@
 <h1>SoC Competitive Programming</h1>
 <br>
 Name: Himanshu Shete<br>
-himanshushete on CodeChef and himu23 on CodeForces<br>
+himu23 on CodeChef and CodeForces<br>
 roll no.: 23B0770<br>
 Mentor: Daksh Anchaliya<br>
 <br>
