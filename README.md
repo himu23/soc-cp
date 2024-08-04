@@ -24,3 +24,5 @@ here i will show you my weekwise work done in soc-competitive_programming, as i 
 <li>did more Project Euler questions
 <li>Dynamic Programming
 <li>CodeChef and LeetCode contest
+
+<h5>I have documented the post midterm Project work in the attached Video.</h5>
