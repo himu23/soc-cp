@@ -23,10 +23,10 @@ int main() {
                     break;
                 }
                 else if(c<a[md]){
-                    r=m-1;
+                    r=md-1;
                 }
                 else{
-                    l=m+1;
+                    l=md+1;
                 }
             }
             if(flag){
